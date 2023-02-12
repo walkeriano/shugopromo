@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "shugo-app",
+    "newversio": "shugo-app",
+    "shugo-app": "shugo-app"
+  },
+  "targets": {}
+}

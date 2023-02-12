@@ -1,0 +1,447 @@
+.info-head{
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.head-text{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+
+.head-text p{
+    font-size: 1.0rem;
+}
+
+.logo-promo{
+    width: 50px;
+}
+
+.volver-promo{
+    text-decoration: none;
+    font-size:0.9rem;
+    border: 1px solid #adadad;
+    padding:5px 10px;
+    border-radius: 20px;
+    color: #adadad;
+    margin-top: 8px;
+}
+
+.marca-name{
+    width: 85%;
+    height: 100px;
+    background-color: white;
+    margin-top:30px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.flex-info{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content:center;
+}
+
+.name-brand{
+    font-size:1.0rem;
+    color: #828282;
+}
+
+.cat{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.cat p{
+    font-size:0.8rem;
+    color: #adadad;
+}
+
+
+.statstore{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+}
+
+.statstore p{
+    font-size: 0.8rem;
+    color: #00c11a;
+}
+
+.pic{
+    width:65px;
+    height:65px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.marca-infox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 85%;
+}
+
+.funs-promos{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.marca-fun-one{
+    width:45%;
+    height:100px;
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rgb(0, 183, 255);
+}
+
+.marca-fun-one p{
+    font-size: 0.8rem;
+    color: #0088ff;
+}
+
+.marca-fun-on-two{
+    width:45%;
+    height:100px;
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.marca-fun-on-two p{
+    font-size: 0.8rem;
+    color: #828282;
+}
+
+.marca-fun{
+    width:45%;
+    height:100px;
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.marca-fun p{
+    font-size: 0.8rem;
+    color: #828282;
+}
+
+
+.marca-fun-on{
+    width:45%;
+    height:100px;
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rgb(0, 183, 255);
+}
+
+.marca-fun-on p{
+    font-size: 0.8rem;
+    color: #0088ff;
+}
+
+.form-box{
+    width: 100%;
+    height: 1300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    background-color:white;
+    border-radius: 20px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.form-itms{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.i-form{
+    margin-bottom: 20px;
+    width: 80%;
+    height: 40px;
+    border-radius: 12px;
+    border: 2px solid #adadad;
+    padding-left: 10px;
+}
+
+.i-des{
+    margin-bottom: 20px;
+    width: 80%;
+    height: 90px;
+    border-radius: 12px;
+    border: 2px solid #adadad;
+    padding-left: 10px;
+}
+
+.i-ter{
+    margin-bottom: 20px;
+    width: 80%;
+    height: 140px;
+    border-radius: 12px;
+    border: 2px solid #adadad;
+    padding-left: 10px;
+}
+
+.funcase{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.hed-fun{
+    width: 100%;
+    height: 130px;
+    background-color: rgb(0, 174, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.text-fun{
+    width: 50%;
+    
+}
+
+.title-fun{
+    font-size:0.8rem;
+    color: white;
+    margin-bottom:10px;
+}
+
+.p-fun{
+    font-size:0.7rem;
+    color: white;
+    width: 80%;
+}
+
+.iconic{
+    width: 85px;
+}
+
+.cont-fun{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+}
+
+.fun-one{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    border-bottom: 1px solid rgb(225, 225, 225);
+}
+
+.context{
+    width: 60%;
+    padding-left: 25px;
+}
+
+.t-cont{
+    font-size: 0.8rem;
+    width: 80%;
+    margin-bottom: 5px;
+    color: #828282;
+}
+
+.p-cont{
+    font-size: 0.7rem;
+    width: 90%;
+    margin-bottom: 10px;
+    color: #828282;
+}
+
+.pri-cont{
+    font-size: 1.1rem;
+    color: #828282;
+}
+
+.icons{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.iconservice{
+    width: 65px;
+}
+
+.label-activate{
+    border:  2px solid #0088ff;
+    padding: 5px 10px;
+    border-radius: 50px;
+    font-size:0.8rem;
+    color: #0088ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inp{
+    margin-left: 8px;
+}
+
+.promos{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.up-box{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.info-promo{
+    width: 60%;
+}
+
+.img-perfil{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    border-radius: 12px;
+
+}
+
+.p-promos{
+    font-size: 0.9rem;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #adadad;
+    color: #adadad;
+}
+
+.i-promo{
+    width: 55px;
+}
+
+.box-kaptcha{
+    width:180px;
+    height:60px;
+    background-color: #adadad;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.btn-crear{
+    border: none;
+    padding: 12px 20px ;
+    border-radius: 50px;
+    background-color: #00c100;
+    color: white;
+    font-size:0.9rem;
+
+}
+
+.state-store{
+    display: flex;
+    justify-content:start;
+    align-items:center;
+    margin-bottom: 13px;
+}
+
+.state-store p{
+    font-size:0.9rem;
+}
+
+.light{
+    width:10px;
+    height: 10px;
+    background-color:rgb(0, 175, 0);
+    border-radius:50%;
+    margin-right: 5px;
+}
+
+
+
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnone{
+    border: none;
+    padding: 8px 10px;
+    font-size: 0.8rem;
+    border-radius:50px;
+    background-color: #00b3ff;
+    color: white;
+}
+
+.btntwo{
+    border: none;
+    padding: 8px 10px;
+    font-size: 0.8rem;
+    border-radius:50px;
+    background-color: #00c11a;
+    color: white;
+    margin-left: 10px;
+}

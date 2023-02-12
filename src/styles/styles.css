@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  Arial, Helvetica, sans-serif, hiro_misakeregular;
+}
+
+@font-face {
+    font-family:'hiro_misakeregular';
+    src: url('../fonts/hiromisake-webfont.eot');
+    src: url('../fonts/hiromisake-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/hiromisake-webfont.woff2') format('woff2'),
+         url('../fonts/hiromisake-webfont.woff') format('woff'),
+         url('../fonts/hiromisake-webfont.ttf') format('truetype'),
+         url('../fonts/hiromisake-webfont.svg#hiro_misakeregular') format('svg');
+    font-weight: regular;
+    font-style: regular;
+
+}
